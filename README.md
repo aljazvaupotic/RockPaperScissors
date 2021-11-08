@@ -1,2 +1,4 @@
 # RockPaperScissors
-Baby steps
+Baby steps 
+
+We all know the game
